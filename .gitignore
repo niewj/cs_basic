@@ -101,5 +101,3 @@ hs_err_pid*
 .gitignore
 .idea/
 ds_alg_serial.iml
-pom.xml
-src/
